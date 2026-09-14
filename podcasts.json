@@ -1457,6 +1457,12 @@
         "hidden": true
     },
     {
+        "id": "spor",
+        "title": "De 10 siste fra Spor",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "sportsdesken_brenner",
         "title": "De 10 siste fra Sportsdesken brenner",
         "season": null,
