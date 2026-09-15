@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:15:24 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:57:49 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hva skal man ha på seg på konsert?</title>
+      <description><![CDATA[Norske influensere har blitt millionbedrifter som mange følger med på. Men følger de faktisk spillereglene? Vi får besøk av en journalist som har gravd i bedriftene til blant annet Isabell Raad og Christian Brennhovd, for å se hva som skjuler seg bak Snapchat-innleggene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d3651de2-1f28-4f73-a51d-e21f28bf73d6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d3651de2-1f28-4f73-a51d-e21f28bf73d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:20</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WKvFg7lU0N5nYLBjV4XKYwuF0Jdx84ETUkrzd2EiO_xQ.jpg"/>
+    </item>
     <item>
       <title>Kyllingsabotasje under kongens begravelse</title>
       <description><![CDATA[En kylling som kanskje var forgiftet, og trenger snitter ny branding? Henning har bakt et helt koko brød, og vi får detaljer om undertøyet til Arin.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>38:37</itunes:duration>
       <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Attentatordre på musikklæreren.</title>
-      <description><![CDATA[Jonas ble homo da han så jentene i klassen danse til «Bumpy ride» og Henning deler sine tanker om «En stjerne skinner i natt».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:36</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
     </item>
   </channel>
 </rss>
