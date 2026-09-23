@@ -3,12 +3,18 @@ name: update-podcast-feeds
 on:
   workflow_dispatch:
   schedule:
-   # Poll every 10 min from 06:00-07:00 Oslo time only.
+   # Poll every 10 min from 05:30-08:00 Oslo time only. Widened from a tighter
+   # 06:00-07:00 window because GitHub's schedule trigger is best-effort and
+   # silently drops most ticks; more ticks/day means better odds some survive.
    # Workaround to compensate for daylight savings (see discover_feeds.yml).
-   - cron: '0,10,20,30,40,50 4 * 4-10 *' # April through October (CEST, UTC+2)
-   - cron: '0 5 * 4-10 *'
-   - cron: '0,10,20,30,40,50 5 * 11,12,1,2,3 *' # November through March (CET, UTC+1)
-   - cron: '0 6 * 11,12,1,2,3 *'
+   - cron: '30,40,50 3 * 4-10 *' # April through October (CEST, UTC+2)
+   - cron: '*/10 4 * 4-10 *'
+   - cron: '*/10 5 * 4-10 *'
+   - cron: '0 6 * 4-10 *'
+   - cron: '30,40,50 4 * 11,12,1,2,3 *' # November through March (CET, UTC+1)
+   - cron: '*/10 5 * 11,12,1,2,3 *'
+   - cron: '*/10 6 * 11,12,1,2,3 *'
+   - cron: '0 7 * 11,12,1,2,3 *'
 
 jobs:
   update-feeds:
