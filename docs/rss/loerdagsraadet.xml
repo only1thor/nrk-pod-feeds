@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 27 Sep 2026 09:57:44 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Sep 2026 13:15:00 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 10:01:45 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Kinamat og familievernkontor</title>
+      <description><![CDATA[Vi lærer mer om kinamat og om tilbudet til familievernkontorene rundt om i landet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/5b3e045f-64d8-4dbe-be04-5f64d80dbee3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5b3e045f-64d8-4dbe-be04-5f64d80dbee3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
+    <item>
+      <title>Linnéa Myhre / Sindre Reinholt / Amalie Stuve</title>
+      <description><![CDATA[TILBAKEMELDING: Hvordan ble antibryllupsdagen? / PROBLEMER: My big fat cheap wedding / Anbefale slutty bøker? / Usikker på det som har vært planen hele tiden / Alle elsker triatlon / Bo alene eller i kollektiv etter brudd / Burde jeg kjempe? / Hvordan blir jeg litt rausere? / Kjæresten min henger alene med eksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/b029b769-0d80-41ec-a9b7-690d8061ece1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b029b769-0d80-41ec-a9b7-690d8061ece1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23:23</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 14:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JQK7jHw8nqzisODcHetw1wJ2JzHMCnATVVrwVXF2ltXw.jpg"/>
+    </item>
     <item>
       <title>Geir «Fenriken» Aker / Martha Leivestad / Odd Nordstoga</title>
       <description><![CDATA[TILBAKEMELDING: Ble det flørting på tur for Tina? / PROBLEMER: Takeaway i bygdenorge / Klassiker: Kan man tilgi utroskap / (Lille)brodern er ferdigutdanna / Hjemmelengsel / Hvordan oppfører man seg alene på konsert? / Konstituert mellomleder i trivsel søker råd / Ikke nok komplimenter, kyss og klem / Venner jeg glemmer]]></description>
@@ -82,24 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1d7f7e90-a122-4730-bf7e-90a122c730d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 15:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
-    </item>
-    <item>
-      <title>Jonis Josef / Mia Hundvin / Olli Wermskog</title>
-      <description><![CDATA[Ble det nye klær til skolestart? / PROBLEMER: Et hårete problem / Sosialt traumatisert Golden Retriever / Hvilke språk skal vi snakke med barnet vårt?  / Noia av kontonummer på bryllupsinvitasjonen / Kjæreste som drikker for mye / Kildesortering av sexleker / Gjeng og mo-i-knærne-forelskelse / Jordskjelv]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7f3085a3-ce4a-4d25-b085-a3ce4aed2525_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7f3085a3-ce4a-4d25-b085-a3ce4aed2525_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:51:55</itunes:duration>
-      <pubDate>Sat, 29 Aug 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AeqXq8A8tw3OxU-2PIwo0gwCpPWka9m4f6iiD79avQug.jpg"/>
-    </item>
-    <item>
-      <title>Ikke ta livet så seriøst a!</title>
-      <description><![CDATA[Ikke ta livet så seriøst a! < en oppfordring fra Snurre, Live og Dr. Jones]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/150f8d63-f699-474d-8f8d-63f699974dd5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/150f8d63-f699-474d-8f8d-63f699974dd5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:45</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 15:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
     </item>
   </channel>
