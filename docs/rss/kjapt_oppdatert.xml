@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:16:10 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:16:43 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Snart kan det bli 16-årsgrense for elsparkesykkel</title>
+      <description><![CDATA[Og en populær TV-serie er kansellert etter ti sesonger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:07</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yyTLBWShMRLDusMDg9BffQ5o616K6tVH0m8XqWlaX0Og.jpg"/>
+    </item>
     <item>
       <title>Foxtrot har blitt mer aktive i Norge</title>
       <description><![CDATA[Og lege advarer mot fenomenet «looksmaxxing».]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/89bc50a7-12bb-4a4e-a33c-3d842577fc6b_ec8a7741-9f36-437c-b8a8-da92dcaa7455_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/89bc50a7-12bb-4a4e-a33c-3d842577fc6b_ec8a7741-9f36-437c-b8a8-da92dcaa7455_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:26</itunes:duration>
+      <itunes:duration>05:24</itunes:duration>
       <pubDate>Thu, 05 Nov 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/E5095YjvR6Qgl0480YIcjwsZpCGeoXPyGVVeuTX-ETnQ.jpg"/>
     </item>
@@ -92,15 +101,6 @@
       <itunes:duration>06:06</itunes:duration>
       <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hMtYey3b20ROBA0yrLq9qgWYCu2HMtAmreAxTPtO950g.jpg"/>
-    </item>
-    <item>
-      <title>Venter «krigstilstander» i Frankrike i helga</title>
-      <description><![CDATA[Og husk: på søndag stiller vi klokka (godt med en time ekstra på øyet)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f99b971b-2d1f-493d-bc73-347a3a8efcbe_262ba7be-e641-49d9-b2f1-2c4b199671f8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f99b971b-2d1f-493d-bc73-347a3a8efcbe_262ba7be-e641-49d9-b2f1-2c4b199671f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:21</itunes:duration>
-      <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z1H4k738BnJsQNHbit8GVQIjeawx0IsI-W3W9aWfP8JA.jpg"/>
     </item>
   </channel>
 </rss>
