@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:47:04 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 16:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:06:01 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Flybase-mysteriet: Utenlandsk angrep på England?</title>
+      <description><![CDATA[Hva skjedde på den engelske flybasen, RAF Fairford, og var det en fremmed makt som stod bak?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/0008c267-a2f8-4a45-9724-48201e15829e_7c8a9cf4-a550-4839-ba2e-43f2524f08a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/0008c267-a2f8-4a45-9724-48201e15829e_7c8a9cf4-a550-4839-ba2e-43f2524f08a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:40</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BJ3oX3NEFD-wVEquxfvg1wqxwFVmycZxDDK6_ExFxs6A.jpg"/>
+    </item>
     <item>
       <title>Trumps nye sjef: Derfor er Miller kontroversiell</title>
       <description><![CDATA[Han er arkitekten bak ICE og Trumps innvandringspolitikk. Hvem er egentlig Stephen Miller?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:59</itunes:duration>
       <pubDate>Thu, 29 Oct 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7v-oG4U2T2GmjpDYKzoHBA-nfkcywRytR5pMEeX5g5Qg.jpg"/>
-    </item>
-    <item>
-      <title>Derfor raser Ungarns statsminister mot NRK</title>
-      <description><![CDATA[Plutselig ble en NRK-korrespondent den store nyhetssaken i Ungarn. Hva skjedde?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:08</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JNjAdpT0ytbMNiexGEs87QjnZuyfMWNATa0N2VrdweOA.jpg"/>
     </item>
   </channel>
 </rss>
